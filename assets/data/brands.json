@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,66 +7,66 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "elabrick",
+        "name": "Elabrick",
+        "slug": "elabrick",
+        "productCategory": "Elabrick",
+        "localThumb": "/assets/images/hersteller/elabrick.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "opera",
+        "name": "Opera",
+        "slug": "opera",
+        "productCategory": "Opera",
+        "localThumb": "/assets/images/hersteller/opera.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "rebel of styles",
+        "name": "Rebel of Styles",
+        "slug": "rebel-of-styles",
+        "productCategory": "Rebel of Styles",
+        "localThumb": "/assets/images/hersteller/rebel-of-styles.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "vabene",
+        "name": "Vabene",
+        "slug": "vabene",
+        "productCategory": "Vabene",
+        "localThumb": "/assets/images/hersteller/vabene.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "home",
+        "name": "home",
+        "slug": "home",
+        "productCategory": "home",
+        "localThumb": "/assets/images/hersteller/home.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "vereg",
+        "name": "Vereg",
+        "slug": "vereg",
+        "productCategory": "Vereg",
+        "localThumb": "/assets/images/hersteller/vereg.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "cersanit",
+        "name": "Cersanit",
+        "slug": "cersanit",
+        "productCategory": "Cersanit",
+        "localThumb": "/assets/images/hersteller/cersanit.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "mediterranea",
+        "name": "Mediterranea",
+        "slug": "mediterranea",
+        "productCategory": "Mediterranea",
+        "localThumb": "/assets/images/hersteller/mediterranea.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "klimex",
+        "name": "Klimex",
+        "slug": "klimex",
+        "productCategory": "Klimex",
+        "localThumb": "/assets/images/hersteller/klimex.webp"
     }
 ]

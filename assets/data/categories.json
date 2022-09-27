@@ -1,107 +1,58 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "bodenfliesen",
+        "name": "Bodenfliesen",
+        "slug": "bodenfliesen",
+        "productCategory": "Bodenfliesen",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "verblender & riemchen",
+        "name": "Verblender & Riemchen",
+        "slug": "verblender-riemchen",
+        "productCategory": "Verblender & Riemchen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "natursteinfliesen",
+        "name": "Natursteinfliesen",
+        "slug": "natursteinfliesen",
+        "productCategory": "Natursteinfliesen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "wandfliesen",
+        "name": "Wandfliesen",
+        "slug": "wandfliesen",
+        "productCategory": "Wandfliesen",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "mosaike",
+        "name": "Mosaike",
+        "slug": "mosaike",
+        "productCategory": "Mosaike",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "bordüren - fliesen",
+        "name": "Bordüren - Fliesen",
+        "slug": "borduren-fliesen",
+        "productCategory": "Bordüren - Fliesen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "sockel-fliesen",
+        "name": "Sockel-Fliesen",
+        "slug": "sockel-fliesen",
+        "productCategory": "Sockel-Fliesen",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
-        "subCategories": []
-    },
-    {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
-        "subCategories": []
-    },
-    {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
-        "subCategories": []
-    },
-    {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
-        "subCategories": []
-    },
-    {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
-        "subCategories": []
-    },
-    {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
-        "subCategories": []
-    },
-    {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "dekorfliesen",
+        "name": "Dekorfliesen",
+        "slug": "dekorfliesen",
+        "productCategory": "Dekorfliesen",
         "subCategories": []
     }
 ]

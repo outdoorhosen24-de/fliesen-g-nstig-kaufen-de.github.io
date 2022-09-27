@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/vereg", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/vereg-feinsteinzeug-bodenfliese-bonn-beige-798-cm-x-798-cm-vereg-6017990-1.jpg":"\u002Fassets\u002Fimages\u002Fvereg-feinsteinzeug-bodenfliese-bonn-beige-798-cm-x-798-cm-vereg-6017990-1.webp"}}],fetch:{},mutations:void 0});

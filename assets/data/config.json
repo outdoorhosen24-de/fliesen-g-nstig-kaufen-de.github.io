@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "fliesen-g\u00fcnstig-kaufen.de",
+    "hostname": "https://www.fliesen-g\u00fcnstig-kaufen.de/",
+    "email": "fliesen-g\u00fcnstig-kaufen.desurrealnetworks.io",
+    "organization": "fliesen-g\u00fcnstig-kaufen.de",
+    "logoText": "Fliesen-g\u00fcnstig-kaufen.de",
+    "title": "Fliesen",
+    "subline": "Der Online Shop f\u00fcr Fliesen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3148111",
+        "7949902",
+        "8707549",
+        "4393484",
+        "9041054",
+        "7839954"
+    ],
+    "winnerProducts": [
+        "2933497",
+        "1774009",
+        "1478619"
+    ],
+    "featuredCategories": [
+        "Sockel-Fliesen",
+        "Verblender & Riemchen",
+        "Verblender & Riemchen",
+        "Bord\u00fcren - Fliesen",
+        "Sockel-Fliesen",
+        "Bodenfliesen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fliesen",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Fliesen sind in der Regel aus Keramik oder Stein und werden in verschiedenen Gr\u00f6\u00dfen, Formen und Farben hergestellt. Sie werden in der Regel auf dem Boden oder an der Wand verwendet und sind in der Regel wasserdicht.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Fliesenladen - Alles f\u00fcr Ihr Zuhause",
+            "metaDescription": "Fliesen f\u00fcr jeden Geschmack! Wir haben die gr\u00f6\u00dfte Auswahl an Fliesen in Deutschland.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Fliesen: Die besten Tipps f\u00fcr die Reinigung und Pflege",
+                    "text": "Fliesen sind ein sehr beliebtes Material f\u00fcr B\u00f6den und W\u00e4nde. Sie sind langlebig, pflegeleicht und relativ einfach zu verlegen. Au\u00dferdem gibt es eine gro\u00dfe Auswahl an verschiedenen Designs und Farben.\n\nAllerdings sind Fliesen auch relativ teuer und man muss sie regelm\u00e4\u00dfig reinigen. Au\u00dferdem k\u00f6nnen sie leicht zerbrechen und sind daher nicht immer die beste Wahl f\u00fcr Kinderzimmer oder andere R\u00e4ume mit hoher Beanspruchung."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fliesen Shop",
+            "metaDescription": "Der Fliesen Shop ist Ihr Online-Shop f\u00fcr hochwertige Fliesen. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fliesen f\u00fcr jeden Geschmack und jeden Anlass.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Fliesenhersteller",
+            "metaDescription": "Fliesen-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Fliesen f\u00fcr jeden Geschmack. Finden Sie die perfekte Fliese f\u00fcr Ihr Zuhause!",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Die besten Fliesen f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihr Zuhause. Wir bieten eine gro\u00dfe Auswahl an $KATEGORIE in verschiedenen Designs und Farben.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Fliesen $KATEGORIE \u2013 die besten Angebote!",
+        "defaultMetaDescription": "$KATEGORIE Fliesen - Finde die perfekte Fliese f\u00fcr dein Zuhause. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fliesen in unterschiedlichen Gr\u00f6\u00dfen, Farben und Designs.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von hochwertigen Fliesen. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fliesen f\u00fcr jeden Geschmack und jeden Anlass.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Fliesen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Fliesen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Fliesen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }

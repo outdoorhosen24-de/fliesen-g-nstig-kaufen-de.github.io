@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
-    "domain": "fliesen-g\u00fcnstig-kaufen.de",
-    "hostname": "https://www.fliesen-g\u00fcnstig-kaufen.de/",
-    "email": "fliesen-g\u00fcnstig-kaufen.desurrealnetworks.io",
-    "organization": "fliesen-g\u00fcnstig-kaufen.de",
-    "logoText": "Fliesen-g\u00fcnstig-kaufen.de",
+    "configIsReady": false,
+    "domain": "fliesen-günstig-kaufen.de",
+    "hostname": "https://www.fliesen-günstig-kaufen.de/",
+    "email": "fliesen-günstig-kaufen.desurrealnetworks.io",
+    "organization": "fliesen-günstig-kaufen.de",
+    "logoText": "Fliesen-günstig-kaufen.de",
     "title": "Fliesen",
-    "subline": "Der Online Shop f\u00fcr Fliesen",
+    "subline": "Der Online Shop für Fliesen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -31,7 +31,7 @@
         "Sockel-Fliesen",
         "Verblender & Riemchen",
         "Verblender & Riemchen",
-        "Bord\u00fcren - Fliesen",
+        "Bordüren - Fliesen",
         "Sockel-Fliesen",
         "Bodenfliesen"
     ],
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fliesen",
-        "featureText": "Die Fliesen sind in der Regel aus Keramik oder Stein und werden in verschiedenen Gr\u00f6\u00dfen, Formen und Farben hergestellt. Sie werden in der Regel auf dem Boden oder an der Wand verwendet und sind in der Regel wasserdicht.",
+        "featureText": "Die Fliesen sind in der Regel aus Keramik oder Stein und werden in verschiedenen Größen, Formen und Farben hergestellt. Sie werden in der Regel auf dem Boden oder an der Wand verwendet und sind in der Regel wasserdicht.",
         "index": {
-            "title": "Fliesenladen - Alles f\u00fcr Ihr Zuhause",
-            "metaDescription": "Fliesen f\u00fcr jeden Geschmack! Wir haben die gr\u00f6\u00dfte Auswahl an Fliesen in Deutschland.",
+            "title": "Fliesenladen - Alles für Ihr Zuhause",
+            "metaDescription": "Fliesen für jeden Geschmack! Wir haben die größte Auswahl an Fliesen in Deutschland.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Fliesen: Die besten Tipps f\u00fcr die Reinigung und Pflege",
-                    "text": "Fliesen sind ein sehr beliebtes Material f\u00fcr B\u00f6den und W\u00e4nde. Sie sind langlebig, pflegeleicht und relativ einfach zu verlegen. Au\u00dferdem gibt es eine gro\u00dfe Auswahl an verschiedenen Designs und Farben.\n\nAllerdings sind Fliesen auch relativ teuer und man muss sie regelm\u00e4\u00dfig reinigen. Au\u00dferdem k\u00f6nnen sie leicht zerbrechen und sind daher nicht immer die beste Wahl f\u00fcr Kinderzimmer oder andere R\u00e4ume mit hoher Beanspruchung."
+                    "title": "Fliesen: Die besten Tipps für die Reinigung und Pflege",
+                    "text": "Fliesen sind ein sehr beliebtes Material für Böden und Wände. Sie sind langlebig, pflegeleicht und relativ einfach zu verlegen. Außerdem gibt es eine große Auswahl an verschiedenen Designs und Farben.\n\nAllerdings sind Fliesen auch relativ teuer und man muss sie regelmäßig reinigen. Außerdem können sie leicht zerbrechen und sind daher nicht immer die beste Wahl für Kinderzimmer oder andere Räume mit hoher Beanspruchung."
                 }
             ]
         },
         "shop": {
             "title": "Fliesen Shop",
-            "metaDescription": "Der Fliesen Shop ist Ihr Online-Shop f\u00fcr hochwertige Fliesen. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fliesen f\u00fcr jeden Geschmack und jeden Anlass.",
+            "metaDescription": "Der Fliesen Shop ist Ihr Online-Shop für hochwertige Fliesen. Wir bieten eine große Auswahl an verschiedenen Fliesen für jeden Geschmack und jeden Anlass.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Fliesenhersteller",
-            "metaDescription": "Fliesen-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Fliesen f\u00fcr jeden Geschmack. Finden Sie die perfekte Fliese f\u00fcr Ihr Zuhause!",
+            "metaDescription": "Fliesen-Hersteller bietet eine große Auswahl an hochwertigen Fliesen für jeden Geschmack. Finden Sie die perfekte Fliese für Ihr Zuhause!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Fliesen f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl f\u00fcr Ihr Zuhause. Wir bieten eine gro\u00dfe Auswahl an $KATEGORIE in verschiedenen Designs und Farben.",
+        "defaultTitle": "$PRODUKT: Die besten Fliesen für Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihr Zuhause. Wir bieten eine große Auswahl an $KATEGORIE in verschiedenen Designs und Farben.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Fliesen $KATEGORIE \u2013 die besten Angebote!",
-        "defaultMetaDescription": "$KATEGORIE Fliesen - Finde die perfekte Fliese f\u00fcr dein Zuhause. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fliesen in unterschiedlichen Gr\u00f6\u00dfen, Farben und Designs.",
+        "defaultTitle": "Fliesen $KATEGORIE – die besten Angebote!",
+        "defaultMetaDescription": "$KATEGORIE Fliesen - Finde die perfekte Fliese für dein Zuhause. Wir bieten eine große Auswahl an verschiedenen Fliesen in unterschiedlichen Größen, Farben und Designs.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von hochwertigen Fliesen. Wir bieten eine gro\u00dfe Auswahl an verschiedenen Fliesen f\u00fcr jeden Geschmack und jeden Anlass.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von hochwertigen Fliesen. Wir bieten eine große Auswahl an verschiedenen Fliesen für jeden Geschmack und jeden Anlass.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }

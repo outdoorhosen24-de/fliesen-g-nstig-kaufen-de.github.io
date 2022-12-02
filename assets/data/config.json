@@ -51,12 +51,15 @@
             "title": "Fliesenladen - Alles für Ihr Zuhause",
             "metaDescription": "Fliesen für jeden Geschmack! Wir haben die größte Auswahl an Fliesen in Deutschland.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Fliesen: Die besten Tipps für die Reinigung und Pflege",
-                    "text": "Fliesen sind ein sehr beliebtes Material für Böden und Wände. Sie sind langlebig, pflegeleicht und relativ einfach zu verlegen. Außerdem gibt es eine große Auswahl an verschiedenen Designs und Farben.\n\nAllerdings sind Fliesen auch relativ teuer und man muss sie regelmäßig reinigen. Außerdem können sie leicht zerbrechen und sind daher nicht immer die beste Wahl für Kinderzimmer oder andere Räume mit hoher Beanspruchung."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Fliesen: Die besten Tipps für die Reinigung und Pflege",
+                        "text": "Fliesen sind ein sehr beliebtes Material für Böden und Wände. Sie sind langlebig, pflegeleicht und relativ einfach zu verlegen. Außerdem gibt es eine große Auswahl an verschiedenen Designs und Farben.\n\nAllerdings sind Fliesen auch relativ teuer und man muss sie regelmäßig reinigen. Außerdem können sie leicht zerbrechen und sind daher nicht immer die beste Wahl für Kinderzimmer oder andere Räume mit hoher Beanspruchung."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Fliesen Shop",

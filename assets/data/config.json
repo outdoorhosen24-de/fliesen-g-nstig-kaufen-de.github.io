@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "fliesen-günstig-kaufen.de",
     "hostname": "https://www.fliesen-günstig-kaufen.de/",
     "email": "fliesen-günstig-kaufen.de@surrealnetworks.io",
     "organization": "fliesen-günstig-kaufen.de",
     "logoText": "Fliesen-günstig-kaufen.de",
-    "title": "Fliesen",
-    "subline": "Der Online Shop für Fliesen",
+    "title": "Fliesen online kaufen",
+    "subline": "Der Online-Shop für Fliesenleger und die, die es werden möchten",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Fliesen",
-        "featureText": "Die Fliesen sind in der Regel aus Keramik oder Stein und werden in verschiedenen Größen, Formen und Farben hergestellt. Sie werden in der Regel auf dem Boden oder an der Wand verwendet und sind in der Regel wasserdicht.",
+        "featureText": "Willkommen in unserem Shop! Bei uns finden Sie eine riesige Auswahl an Fliesen für jeden Anwendungsbereich. Wir achten bei der Zusammenstellung unseres Angebots stets auf einen hohen Qualitätsstandard. Unser Ziel ist Ihre Zufriedenheit mit unseren Produkten. Überzeugen Sie sich gerne von unserem umfangreichen Sortiment.",
         "index": {
-            "title": "Fliesenladen - Alles für Ihr Zuhause",
-            "metaDescription": "Fliesen für jeden Geschmack! Wir haben die größte Auswahl an Fliesen in Deutschland.",
+            "title": "Fliesen - verschiedene Materialen, Farben & Formen",
+            "metaDescription": "Bei uns findet jeder die passenden Fliesen. | Ob Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike, Dekorfliesen, Bordüren uvm. | Hier online erhältlich! ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Fliesen Shop",
-            "metaDescription": "Der Fliesen Shop ist Ihr Online-Shop für hochwertige Fliesen. Wir bieten eine große Auswahl an verschiedenen Fliesen für jeden Geschmack und jeden Anlass.",
+            "title": "Fliesen Online Shop | einfach online bestellen",
+            "metaDescription": "Hochwertige Fliesen wie: Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike uvm. | Bei uns erhältlich | Einfache Produktsuche | Günsitge Preise ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Fliesenhersteller",
-            "metaDescription": "Fliesen-Hersteller bietet eine große Auswahl an hochwertigen Fliesen für jeden Geschmack. Finden Sie die perfekte Fliese für Ihr Zuhause!",
+            "title": "Fliesenhersteller: Top Marken im Angebot ",
+            "metaDescription": "Hier hochwertige Fliesen von Herstellern wie: Elabrick, Home, Klimex, Cersanit, Vabene uvm. | Top Qualität zum fairen Preis!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Fliesen für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Wahl für Ihr Zuhause. Wir bieten eine große Auswahl an $KATEGORIE in verschiedenen Designs und Farben.",
+        "defaultTitle": "$PRODUKT | Fliesenshop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl für ein schönes Ergebnis! | Finden Sie weitere Produkte zum Thema $KATEGORIE in verschiedenen Designs und Farben.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Fliesen $KATEGORIE – die besten Angebote!",
-        "defaultMetaDescription": "$KATEGORIE Fliesen - Finde die perfekte Fliese für dein Zuhause. Wir bieten eine große Auswahl an verschiedenen Fliesen in unterschiedlichen Größen, Farben und Designs.",
+        "defaultTitle": "$KATEGORIE – die besten Angebote!",
+        "defaultMetaDescription": "$KATEGORIE - großes Sortiment an tollen Produkten in unterschiedlichen Größen, Farben, Designs! | Finden Sie die perfekte Fliese für Ihr Zuhause. ",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von hochwertigen Fliesen. Wir bieten eine große Auswahl an verschiedenen Fliesen für jeden Geschmack und jeden Anlass.",
+        "defaultTitle": "$HERSTELLER | Top Qualität ",
+        "defaultMetaDescription": "$HERSTELLER ist ein Marktführender Anbieter für Fliesen. | $HERSTELLER zeichnet sich durch qualitativ hochwertig hergestellte Produkte aus. | Bei uns erhältich!",
         "defaultRobots": "index, follow",
         "brands": [
             {

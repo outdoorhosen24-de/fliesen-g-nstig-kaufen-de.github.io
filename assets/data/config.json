@@ -1,196 +1,199 @@
 {
-    "configIsReady": true,
-    "domain": "fliesen-günstig-kaufen.de",
-    "hostname": "https://www.fliesen-günstig-kaufen.de/",
-    "email": "fliesen-günstig-kaufen.de@surrealnetworks.io",
-    "organization": "fliesen-günstig-kaufen.de",
-    "logoText": "Fliesen-günstig-kaufen.de",
-    "title": "Fliesen online kaufen",
-    "subline": "Der Online-Shop für Fliesenleger und die, die es werden möchten",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "3148111",
-        "7949902",
-        "8707549",
-        "4393484",
-        "9041054",
-        "7839954"
-    ],
-    "winnerProducts": [
-        "2933497",
-        "1774009",
-        "1478619"
-    ],
-    "featuredCategories": [
-        "Sockel-Fliesen",
-        "Verblender & Riemchen",
-        "Verblender & Riemchen",
-        "Bordüren - Fliesen",
-        "Sockel-Fliesen",
-        "Bodenfliesen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Fliesen",
-        "featureText": "Willkommen in unserem Shop! Bei uns finden Sie eine riesige Auswahl an Fliesen für jeden Anwendungsbereich. Wir achten bei der Zusammenstellung unseres Angebots stets auf einen hohen Qualitätsstandard. Unser Ziel ist Ihre Zufriedenheit mit unseren Produkten. Überzeugen Sie sich gerne von unserem umfangreichen Sortiment.",
-        "index": {
-            "title": "Fliesen - verschiedene Materialen, Farben & Formen",
-            "metaDescription": "Bei uns findet jeder die passenden Fliesen. | Ob Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike, Dekorfliesen, Bordüren uvm. | Hier online erhältlich! ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Fliesen günstig kaufen - bei Fliesen-Günstig-Kaufen.de",
-                        "text": "Sie möchten Ihr Zuhause neu gestalten oder renovieren? Dann sind Sie bei Fliesen-Günstig-Kaufen.de genau richtig! Hier finden Sie eine große Auswahl an Fliesen in verschiedenen Ausführungen und Designs. Von Bodenfliesen über Verblender & Riemchen bis hin zu Natursteinfliesen und Wandfliesen - bei uns werden Sie fündig. Auch Mosaike, Bordüren-Fliesen, Sockel-Fliesen und Dekorfliesen sind im Sortiment zu finden. Überzeugen Sie sich selbst und bestellen Sie bequem online."
-                    },
-                    {
-                        "title": "Bodenfliesen - das Fundament für ein schönes Zuhause",
-                        "text": "Bodenfliesen sind das Fundament für ein schönes Zuhause. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Bodenfliesen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
-                    },
-                    {
-                        "title": "Verblender & Riemchen - die perfekte Ergänzung für Ihre Wandgestaltung",
-                        "text": "Verblender & Riemchen sind die perfekte Ergänzung für Ihre Wandgestaltung. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Verblendern & Riemchen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihren Wänden eine neue Optik."
-                    },
-                    {
-                        "title": "Natursteinfliesen - zeitloses Design für Ihr Zuhause",
-                        "text": "Natursteinfliesen verleihen Ihrem Zuhause ein zeitloses Design. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Natursteinfliesen in verschiedenen Ausführungen und Designs. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
-                    },
-                    {
-                        "title": "Wandfliesen - Gestaltungsmöglichkeiten für jeden Raum",
-                        "text": "Wandfliesen bieten unendliche Gestaltungsmöglichkeiten für jeden Raum. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Wandfliesen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihren Wänden eine neue Optik."
-                    },
-                    {
-                        "title": "Mosaike - Ein Highlight in jedem Raum",
-                        "text": "Mosaike sind ein Highlight in jedem Raum. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Mosaiken in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
-                    },
-                    {
-                        "title": "Bordüren - Fliesen - Der feine Akzent in Ihrem Zuhause",
-                        "text": "Bordüren - Fliesen sind der feine Akzent in Ihrem Zuhause. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Bordüren - Fliesen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
-                    },
-                    {
-                        "title": "Sockel-Fliesen für den perfekten Abschluss im Bad",
-                        "text": "Sockel-Fliesen sind ein wichtiger Bestandteil jeder Fliesenkollektion. Sie dienen nicht nur als dekorativer Abschluss, sondern schützen auch die Wand vor Feuchtigkeit und Schmutz. In unserem Online-Shop für Fliesen finden Sie eine große Auswahl an Sockel-Fliesen in verschiedenen Farben, Formen und Materialien. Ob Sie auf der Suche nach klassischen weißen oder farbigen Sockel-Fliesen sind, wir haben für jeden Geschmack das passende Angebot."
-                    },
-                    {
-                        "title": "Dekorfliesen für eine individuelle Wandgestaltung",
-                        "text": "Mit Dekorfliesen können Sie Ihren Wänden im Bad eine individuelle Note verleihen. Ob als Blickfang im Duschbereich oder als Hintergrund für ein Waschbecken, Dekorfliesen bieten unendliche Gestaltungsmöglichkeiten. In unserem Online-Shop finden Sie eine große Auswahl an Dekorfliesen in verschiedenen Designs, Farben und Materialien. Lassen Sie sich inspirieren und kreieren Sie Ihr ganz persönliches Fliesen-Arrangement."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Fliesen Online Shop | einfach online bestellen",
-            "metaDescription": "Hochwertige Fliesen wie: Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike uvm. | Bei uns erhältlich | Einfache Produktsuche | Günsitge Preise ",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Fliesenhersteller: Top Marken im Angebot ",
-            "metaDescription": "Hier hochwertige Fliesen von Herstellern wie: Elabrick, Home, Klimex, Cersanit, Vabene uvm. | Top Qualität zum fairen Preis!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT | Fliesenshop",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl für ein schönes Ergebnis! | Finden Sie weitere Produkte zum Thema $KATEGORIE in verschiedenen Designs und Farben.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "fliesen-g\u00fcnstig-kaufen.de",
+  "hostname": "https://www.fliesen-g\u00fcnstig-kaufen.de/",
+  "email": "fliesen-g\u00fcnstig-kaufen.de@surrealnetworks.io",
+  "organization": "fliesen-g\u00fcnstig-kaufen.de",
+  "logoText": "Fliesen-g\u00fcnstig-kaufen.de",
+  "title": "Fliesen online kaufen",
+  "subline": "Der Online-Shop f\u00fcr Fliesenleger und die, die es werden m\u00f6chten",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "3148111",
+    "7949902",
+    "8707549",
+    "4393484",
+    "9041054",
+    "7839954"
+  ],
+  "winnerProducts": [
+    "2933497",
+    "1774009",
+    "1478619"
+  ],
+  "featuredCategories": [
+    "Sockel-Fliesen",
+    "Verblender & Riemchen",
+    "Verblender & Riemchen",
+    "Bord\u00fcren - Fliesen",
+    "Sockel-Fliesen",
+    "Bodenfliesen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Fliesen",
+    "featureText": "Willkommen in unserem Shop! Bei uns finden Sie eine riesige Auswahl an Fliesen f\u00fcr jeden Anwendungsbereich. Wir achten bei der Zusammenstellung unseres Angebots stets auf einen hohen Qualit\u00e4tsstandard. Unser Ziel ist Ihre Zufriedenheit mit unseren Produkten. \u00dcberzeugen Sie sich gerne von unserem umfangreichen Sortiment.",
+    "index": {
+      "title": "Fliesen - verschiedene Materialen, Farben & Formen",
+      "metaDescription": "Bei uns findet jeder die passenden Fliesen. | Ob Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike, Dekorfliesen, Bord\u00fcren uvm. | Hier online erh\u00e4ltlich! ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Fliesen g\u00fcnstig kaufen - bei Fliesen-G\u00fcnstig-Kaufen.de",
+            "text": "Sie m\u00f6chten Ihr Zuhause neu gestalten oder renovieren? Dann sind Sie bei Fliesen-G\u00fcnstig-Kaufen.de genau richtig! Hier finden Sie eine gro\u00dfe Auswahl an Fliesen in verschiedenen Ausf\u00fchrungen und Designs. Von Bodenfliesen \u00fcber Verblender & Riemchen bis hin zu Natursteinfliesen und Wandfliesen - bei uns werden Sie f\u00fcndig. Auch Mosaike, Bord\u00fcren-Fliesen, Sockel-Fliesen und Dekorfliesen sind im Sortiment zu finden. \u00dcberzeugen Sie sich selbst und bestellen Sie bequem online."
+          },
+          {
+            "title": "Bodenfliesen - das Fundament f\u00fcr ein sch\u00f6nes Zuhause",
+            "text": "Bodenfliesen sind das Fundament f\u00fcr ein sch\u00f6nes Zuhause. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Bodenfliesen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+          },
+          {
+            "title": "Verblender & Riemchen - die perfekte Erg\u00e4nzung f\u00fcr Ihre Wandgestaltung",
+            "text": "Verblender & Riemchen sind die perfekte Erg\u00e4nzung f\u00fcr Ihre Wandgestaltung. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Verblendern & Riemchen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihren W\u00e4nden eine neue Optik."
+          },
+          {
+            "title": "Natursteinfliesen - zeitloses Design f\u00fcr Ihr Zuhause",
+            "text": "Natursteinfliesen verleihen Ihrem Zuhause ein zeitloses Design. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Natursteinfliesen in verschiedenen Ausf\u00fchrungen und Designs. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+          },
+          {
+            "title": "Wandfliesen - Gestaltungsm\u00f6glichkeiten f\u00fcr jeden Raum",
+            "text": "Wandfliesen bieten unendliche Gestaltungsm\u00f6glichkeiten f\u00fcr jeden Raum. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Wandfliesen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihren W\u00e4nden eine neue Optik."
+          },
+          {
+            "title": "Mosaike - Ein Highlight in jedem Raum",
+            "text": "Mosaike sind ein Highlight in jedem Raum. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Mosaiken in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+          },
+          {
+            "title": "Bord\u00fcren - Fliesen - Der feine Akzent in Ihrem Zuhause",
+            "text": "Bord\u00fcren - Fliesen sind der feine Akzent in Ihrem Zuhause. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Bord\u00fcren - Fliesen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+          },
+          {
+            "title": "Sockel-Fliesen f\u00fcr den perfekten Abschluss im Bad",
+            "text": "Sockel-Fliesen sind ein wichtiger Bestandteil jeder Fliesenkollektion. Sie dienen nicht nur als dekorativer Abschluss, sondern sch\u00fctzen auch die Wand vor Feuchtigkeit und Schmutz. In unserem Online-Shop f\u00fcr Fliesen finden Sie eine gro\u00dfe Auswahl an Sockel-Fliesen in verschiedenen Farben, Formen und Materialien. Ob Sie auf der Suche nach klassischen wei\u00dfen oder farbigen Sockel-Fliesen sind, wir haben f\u00fcr jeden Geschmack das passende Angebot."
+          },
+          {
+            "title": "Dekorfliesen f\u00fcr eine individuelle Wandgestaltung",
+            "text": "Mit Dekorfliesen k\u00f6nnen Sie Ihren W\u00e4nden im Bad eine individuelle Note verleihen. Ob als Blickfang im Duschbereich oder als Hintergrund f\u00fcr ein Waschbecken, Dekorfliesen bieten unendliche Gestaltungsm\u00f6glichkeiten. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Dekorfliesen in verschiedenen Designs, Farben und Materialien. Lassen Sie sich inspirieren und kreieren Sie Ihr ganz pers\u00f6nliches Fliesen-Arrangement."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE – die besten Angebote!",
-        "defaultMetaDescription": "$KATEGORIE - großes Sortiment an tollen Produkten in unterschiedlichen Größen, Farben, Designs! | Finden Sie die perfekte Fliese für Ihr Zuhause. ",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Fliesen Online Shop | einfach online bestellen",
+      "metaDescription": "Hochwertige Fliesen wie: Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike uvm. | Bei uns erh\u00e4ltlich | Einfache Produktsuche | G\u00fcnsitge Preise ",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER | Top Qualität ",
-        "defaultMetaDescription": "$HERSTELLER ist ein Marktführender Anbieter für Fliesen. | $HERSTELLER zeichnet sich durch qualitativ hochwertig hergestellte Produkte aus. | Bei uns erhältich!",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Fliesen",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Fliesen Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Fliesen Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Fliesenhersteller: Top Marken im Angebot ",
+      "metaDescription": "Hier hochwertige Fliesen von Herstellern wie: Elabrick, Home, Klimex, Cersanit, Vabene uvm. | Top Qualit\u00e4t zum fairen Preis!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT | Fliesenshop",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl f\u00fcr ein sch\u00f6nes Ergebnis! | Finden Sie weitere Produkte zum Thema $KATEGORIE in verschiedenen Designs und Farben.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE \u2013 die besten Angebote!",
+    "defaultMetaDescription": "$KATEGORIE - gro\u00dfes Sortiment an tollen Produkten in unterschiedlichen Gr\u00f6\u00dfen, Farben, Designs! | Finden Sie die perfekte Fliese f\u00fcr Ihr Zuhause. ",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER | Top Qualit\u00e4t ",
+    "defaultMetaDescription": "$HERSTELLER ist ein Marktf\u00fchrender Anbieter f\u00fcr Fliesen. | $HERSTELLER zeichnet sich durch qualitativ hochwertig hergestellte Produkte aus. | Bei uns erh\u00e4ltich!",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Fliesen",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Fliesen Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Fliesen Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }

@@ -1,12 +1,12 @@
 {
   "configIsReady": true,
-  "domain": "fliesen-g\u00fcnstig-kaufen.de",
-  "hostname": "https://www.fliesen-g\u00fcnstig-kaufen.de/",
-  "email": "fliesen-g\u00fcnstig-kaufen.de@surrealnetworks.io",
-  "organization": "fliesen-g\u00fcnstig-kaufen.de",
-  "logoText": "Fliesen-g\u00fcnstig-kaufen.de",
+  "domain": "fliesen-günstig-kaufen.de",
+  "hostname": "https://www.fliesen-günstig-kaufen.de/",
+  "email": "fliesen-günstig-kaufen.de@surrealnetworks.io",
+  "organization": "fliesen-günstig-kaufen.de",
+  "logoText": "Fliesen-günstig-kaufen.de",
   "title": "Fliesen online kaufen",
-  "subline": "Der Online-Shop f\u00fcr Fliesenleger und die, die es werden m\u00f6chten",
+  "subline": "Der Online-Shop für Fliesenleger und die, die es werden möchten",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -31,7 +31,7 @@
     "Sockel-Fliesen",
     "Verblender & Riemchen",
     "Verblender & Riemchen",
-    "Bord\u00fcren - Fliesen",
+    "Bordüren - Fliesen",
     "Sockel-Fliesen",
     "Bodenfliesen"
   ],
@@ -46,83 +46,204 @@
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Fliesen",
-    "featureText": "Willkommen in unserem Shop! Bei uns finden Sie eine riesige Auswahl an Fliesen f\u00fcr jeden Anwendungsbereich. Wir achten bei der Zusammenstellung unseres Angebots stets auf einen hohen Qualit\u00e4tsstandard. Unser Ziel ist Ihre Zufriedenheit mit unseren Produkten. \u00dcberzeugen Sie sich gerne von unserem umfangreichen Sortiment.",
+    "featureText": "Willkommen in unserem Shop! Bei uns finden Sie eine riesige Auswahl an Fliesen für jeden Anwendungsbereich. Wir achten bei der Zusammenstellung unseres Angebots stets auf einen hohen Qualitätsstandard. Unser Ziel ist Ihre Zufriedenheit mit unseren Produkten. Überzeugen Sie sich gerne von unserem umfangreichen Sortiment.",
     "index": {
       "title": "Fliesen - verschiedene Materialen, Farben & Formen",
-      "metaDescription": "Bei uns findet jeder die passenden Fliesen. | Ob Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike, Dekorfliesen, Bord\u00fcren uvm. | Hier online erh\u00e4ltlich! ",
+      "metaDescription": "Bei uns findet jeder die passenden Fliesen. | Ob Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike, Dekorfliesen, Bordüren uvm. | Hier online erhältlich! ",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Fliesen g\u00fcnstig kaufen - bei Fliesen-G\u00fcnstig-Kaufen.de",
-            "text": "Sie m\u00f6chten Ihr Zuhause neu gestalten oder renovieren? Dann sind Sie bei Fliesen-G\u00fcnstig-Kaufen.de genau richtig! Hier finden Sie eine gro\u00dfe Auswahl an Fliesen in verschiedenen Ausf\u00fchrungen und Designs. Von Bodenfliesen \u00fcber Verblender & Riemchen bis hin zu Natursteinfliesen und Wandfliesen - bei uns werden Sie f\u00fcndig. Auch Mosaike, Bord\u00fcren-Fliesen, Sockel-Fliesen und Dekorfliesen sind im Sortiment zu finden. \u00dcberzeugen Sie sich selbst und bestellen Sie bequem online."
+            "title": "Fliesen günstig kaufen - bei Fliesen-Günstig-Kaufen.de",
+            "text": "Sie möchten Ihr Zuhause neu gestalten oder renovieren? Dann sind Sie bei Fliesen-Günstig-Kaufen.de genau richtig! Hier finden Sie eine große Auswahl an Fliesen in verschiedenen Ausführungen und Designs. Von Bodenfliesen über Verblender & Riemchen bis hin zu Natursteinfliesen und Wandfliesen - bei uns werden Sie fündig. Auch Mosaike, Bordüren-Fliesen, Sockel-Fliesen und Dekorfliesen sind im Sortiment zu finden. Überzeugen Sie sich selbst und bestellen Sie bequem online."
           },
           {
-            "title": "Bodenfliesen - das Fundament f\u00fcr ein sch\u00f6nes Zuhause",
-            "text": "Bodenfliesen sind das Fundament f\u00fcr ein sch\u00f6nes Zuhause. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Bodenfliesen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+            "title": "Bodenfliesen - das Fundament für ein schönes Zuhause",
+            "text": "Bodenfliesen sind das Fundament für ein schönes Zuhause. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Bodenfliesen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
           },
           {
-            "title": "Verblender & Riemchen - die perfekte Erg\u00e4nzung f\u00fcr Ihre Wandgestaltung",
-            "text": "Verblender & Riemchen sind die perfekte Erg\u00e4nzung f\u00fcr Ihre Wandgestaltung. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Verblendern & Riemchen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihren W\u00e4nden eine neue Optik."
+            "title": "Verblender & Riemchen - die perfekte Ergänzung für Ihre Wandgestaltung",
+            "text": "Verblender & Riemchen sind die perfekte Ergänzung für Ihre Wandgestaltung. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Verblendern & Riemchen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihren Wänden eine neue Optik."
           },
           {
-            "title": "Natursteinfliesen - zeitloses Design f\u00fcr Ihr Zuhause",
-            "text": "Natursteinfliesen verleihen Ihrem Zuhause ein zeitloses Design. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Natursteinfliesen in verschiedenen Ausf\u00fchrungen und Designs. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+            "title": "Natursteinfliesen - zeitloses Design für Ihr Zuhause",
+            "text": "Natursteinfliesen verleihen Ihrem Zuhause ein zeitloses Design. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Natursteinfliesen in verschiedenen Ausführungen und Designs. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
           },
           {
-            "title": "Wandfliesen - Gestaltungsm\u00f6glichkeiten f\u00fcr jeden Raum",
-            "text": "Wandfliesen bieten unendliche Gestaltungsm\u00f6glichkeiten f\u00fcr jeden Raum. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Wandfliesen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihren W\u00e4nden eine neue Optik."
+            "title": "Wandfliesen - Gestaltungsmöglichkeiten für jeden Raum",
+            "text": "Wandfliesen bieten unendliche Gestaltungsmöglichkeiten für jeden Raum. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Wandfliesen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihren Wänden eine neue Optik."
           },
           {
             "title": "Mosaike - Ein Highlight in jedem Raum",
-            "text": "Mosaike sind ein Highlight in jedem Raum. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Mosaiken in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+            "text": "Mosaike sind ein Highlight in jedem Raum. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Mosaiken in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
           },
           {
-            "title": "Bord\u00fcren - Fliesen - Der feine Akzent in Ihrem Zuhause",
-            "text": "Bord\u00fcren - Fliesen sind der feine Akzent in Ihrem Zuhause. Bei Fliesen-G\u00fcnstig-Kaufen.de finden Sie eine gro\u00dfe Auswahl an Bord\u00fcren - Fliesen in verschiedenen Designs, Farben und Gr\u00f6\u00dfen. Ob f\u00fcr K\u00fcche, Bad oder Wohnbereich - bei uns werden Sie f\u00fcndig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
+            "title": "Bordüren - Fliesen - Der feine Akzent in Ihrem Zuhause",
+            "text": "Bordüren - Fliesen sind der feine Akzent in Ihrem Zuhause. Bei Fliesen-Günstig-Kaufen.de finden Sie eine große Auswahl an Bordüren - Fliesen in verschiedenen Designs, Farben und Größen. Ob für Küche, Bad oder Wohnbereich - bei uns werden Sie fündig. Bestellen Sie bequem online und verleihen Sie Ihrem Zuhause eine neue Optik."
           },
           {
-            "title": "Sockel-Fliesen f\u00fcr den perfekten Abschluss im Bad",
-            "text": "Sockel-Fliesen sind ein wichtiger Bestandteil jeder Fliesenkollektion. Sie dienen nicht nur als dekorativer Abschluss, sondern sch\u00fctzen auch die Wand vor Feuchtigkeit und Schmutz. In unserem Online-Shop f\u00fcr Fliesen finden Sie eine gro\u00dfe Auswahl an Sockel-Fliesen in verschiedenen Farben, Formen und Materialien. Ob Sie auf der Suche nach klassischen wei\u00dfen oder farbigen Sockel-Fliesen sind, wir haben f\u00fcr jeden Geschmack das passende Angebot."
+            "title": "Sockel-Fliesen für den perfekten Abschluss im Bad",
+            "text": "Sockel-Fliesen sind ein wichtiger Bestandteil jeder Fliesenkollektion. Sie dienen nicht nur als dekorativer Abschluss, sondern schützen auch die Wand vor Feuchtigkeit und Schmutz. In unserem Online-Shop für Fliesen finden Sie eine große Auswahl an Sockel-Fliesen in verschiedenen Farben, Formen und Materialien. Ob Sie auf der Suche nach klassischen weißen oder farbigen Sockel-Fliesen sind, wir haben für jeden Geschmack das passende Angebot."
           },
           {
-            "title": "Dekorfliesen f\u00fcr eine individuelle Wandgestaltung",
-            "text": "Mit Dekorfliesen k\u00f6nnen Sie Ihren W\u00e4nden im Bad eine individuelle Note verleihen. Ob als Blickfang im Duschbereich oder als Hintergrund f\u00fcr ein Waschbecken, Dekorfliesen bieten unendliche Gestaltungsm\u00f6glichkeiten. In unserem Online-Shop finden Sie eine gro\u00dfe Auswahl an Dekorfliesen in verschiedenen Designs, Farben und Materialien. Lassen Sie sich inspirieren und kreieren Sie Ihr ganz pers\u00f6nliches Fliesen-Arrangement."
+            "title": "Dekorfliesen für eine individuelle Wandgestaltung",
+            "text": "Mit Dekorfliesen können Sie Ihren Wänden im Bad eine individuelle Note verleihen. Ob als Blickfang im Duschbereich oder als Hintergrund für ein Waschbecken, Dekorfliesen bieten unendliche Gestaltungsmöglichkeiten. In unserem Online-Shop finden Sie eine große Auswahl an Dekorfliesen in verschiedenen Designs, Farben und Materialien. Lassen Sie sich inspirieren und kreieren Sie Ihr ganz persönliches Fliesen-Arrangement."
           }
         ]
       }
     },
     "shop": {
       "title": "Fliesen Online Shop | einfach online bestellen",
-      "metaDescription": "Hochwertige Fliesen wie: Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike uvm. | Bei uns erh\u00e4ltlich | Einfache Produktsuche | G\u00fcnsitge Preise ",
+      "metaDescription": "Hochwertige Fliesen wie: Bodenfliesen, Wandfliesen, Natursteinfliesen, Mosaike uvm. | Bei uns erhältlich | Einfache Produktsuche | Günsitge Preise ",
       "robots": "index, follow"
     },
     "hersteller": {
       "title": "Fliesenhersteller: Top Marken im Angebot ",
-      "metaDescription": "Hier hochwertige Fliesen von Herstellern wie: Elabrick, Home, Klimex, Cersanit, Vabene uvm. | Top Qualit\u00e4t zum fairen Preis!",
+      "metaDescription": "Hier hochwertige Fliesen von Herstellern wie: Elabrick, Home, Klimex, Cersanit, Vabene uvm. | Top Qualität zum fairen Preis!",
       "robots": "index, follow"
     }
   },
   "productSeo": {
     "defaultTitle": "$PRODUKT | Fliesenshop",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl f\u00fcr ein sch\u00f6nes Ergebnis! | Finden Sie weitere Produkte zum Thema $KATEGORIE in verschiedenen Designs und Farben.",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die richtige Wahl für ein schönes Ergebnis! | Finden Sie weitere Produkte zum Thema $KATEGORIE in verschiedenen Designs und Farben.",
     "defaultRobots": "index, follow",
     "products": [
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "2933497",
+        "seo": {
+          "texts": [
+            {
+              "title": "Bodenfliese Vesuvio Dark Feinsteinzeug Grau Glasiert 30,5 cm x 60,5 cm",
+              "text": "<p class=\"justify\">Die moderne Bodenfliese Vesuvio Dark von der Marke Sonstige ist ein hochwertiges Feinsteinzeug in Grau, das sowohl für Innen- als auch für Außenbereiche geeignet ist. Mit ihrem ansprechenden Design in einer modernen Zementoptik vermittelt die Fliese einen stilvollen und zeitgemäßen Look in jedem Raum. Das Rechteckformat der Fliese mit den Maßen 30,5 cm x 60,5 cm sorgt für eine klare Struktur und harmonische Flächenwirkung. </p><p class=\"justify\">Feinsteinzeug ist ein keramisches Material, das durch seine feine Zusammensetzung, hohe Temperatur- und Druckverarbeitung ein kompaktes und widerstandsfähiges Material bildet. Dies zeichnet sich durch eine minimale Porosität und eine hohe Dichte aus, die die Fliese frostsicher und besonders beständig gegen mechanische Einwirkungen macht. Dieses Material ist ebenfalls unbrennbar und hat eine gute Wärmeleitfähigkeit, wodurch es ideal für die Verlegung auf Fußbodenheizungen geeignet ist. Dank ihrer glasierten Oberfläche ist die Fliese leicht zu reinigen und ein dekoratives Gestaltungselement in jedem Wohnbereich. </p><p class=\"justify\">Die Bodenfliese Vesuvio Dark zeichnet sich durch ihre Abriebklasse 5 aus, die sie für intensiv genutzte Räume und Außenbereiche mit hohem Publikumsverkehr geeignet macht. Dadurch eignet sich die Fliese auch für gewerbliche Bereiche. Die Rutschhemmung R10, welche der Fliese einen normalen Haftreibwert verleiht, macht sie trittsicher, wenn die Oberfläche mit Flüssigkeit in Berührung kommt und eignet sich daher auch hervorragend für private Haushalte und barrierefreie Wohnbereiche. </p><p class=\"justify\">Mit ihrer durchgehenden Farbgebung bietet diese Bodenfliese eine langlebige und beständige Optik, die kleine Beschädigungen weniger ins Auge fallen lässt. Jedes Paket der glasierten Fliese Vesuvio Dark enthält 1,11 m² Fliesen in den Abmessungen 30,5 cm x 60,5 cm. Werten Sie Ihre Räume mit dieser attraktiven und hochwertigen Feinsteinzeugfliese auf und schaffen Sie ein einladendes Ambiente. </p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1774009",
+        "seo": {
+          "texts": [
+            {
+              "title": "Wandverblender Feinsteinzeug Cronos Anthrazit matt glasiert 37 cm x 15 cm von Sonstige",
+              "text": "<p class=\"justify\">Verleihen Sie Ihren Wänden eine besondere Note mit dem Wandverblender Feinsteinzeug Cronos Anthrazit matt glasiert 37 cm x 15 cm von Sonstige. Dieser Wandverblender kommt aus der Kategorie Verblender & Riemchen und zeichnet sich durch seine hochwertige Qualität aus. Das Feinsteinzeug-Material sorgt für eine robuste Oberfläche, die sich perfekt für die individuelle Gestaltung Ihrer Wände eignet. Mit seiner modernen anthrazitfarbenen Optik setzt er stilvolle Akzente und schafft eine freundliche Atmosphäre in Ihrem Zuhause.</p><p class=\"justify\">Dieser Wandverblender ist in der Größe von 37 cm x 15 cm erhältlich, was eine einfachere Handhabung und Installation ermöglicht. Die Matte Glasur verleiht der Oberfläche eine edle und zeitlose Erscheinung. Das Produkt hat eine GTIN13-Nummer von 8691273440109 und ist unter der SKU 1774009 bei Sonstige gelistet. Die Kategorien Startseite, Bauen, Fliesen und Verblender & Riemchen bieten eine klare Einordnung dieses Produktes. Durch den rauhen Charme dieses Wandverblenders entsteht ein attraktives Erscheinungsbild, das dem Raum eine besondere Wirkung verleiht.</p><p class=\"justify\">Der Wandverblender Feinsteinzeug Cronos Anthrazit matt glasiert 37 cm x 15 cm ist ein Produkt, das mit 88 Bewertungen und 4 von 5 Sternen sehr gut bewertet wurde. Die Kunden schätzen seine hochwertige Qualität und das moderne Design. Im Preisvergleich liegt dieses Produkt bei 32,53 Euro, was ein attraktives Preis-Leistungs-Verhältnis bietet. Mit diesem Wandverblender entscheiden Sie sich für ein Produkt, das Funktionalität und Design auf hohem Niveau vereint und Ihrem Zuhause das gewisse Etwas verleiht.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1478619",
+        "seo": {
+          "texts": [
+            {
+              "title": "Bodenfliese Track Feinsteinzeug Anthrazit Glasiert 60 cm x 60 cm",
+              "text": "<p class=\"justify\">Die Bodenfliese Track Feinsteinzeug Anthrazit Glasiert 60 cm x 60 cm ist eine äußerst stilvolle und moderne Fliesenlösung für Innen- und Außenbereich. Hergestellt von der Marke Sonstige, hebt sich diese Fliese durch ihre Steinoptik und Anthrazitfarbe in Kombination mit hellen Möbeln perfekt hervor. Das quadratische Format sorgt für eine klare Struktur und ein harmonisches Gesamtbild, während die glasierte Oberfläche eine einfache Reinigung und Pflege ermöglicht.</p><p class=\"justify\">Bodenfliesen aus Feinsteinzeug sind für ihre hohe Belastbarkeit und Strapazierfähigkeit bekannt. Sie eignen sich für eine Vielzahl von Anwendungen, einschließlich Küche, Bad und stark genutzten Räumen. Sie sind zudem unbrennbar und zeichnen sich durch eine gute Wärmeleitfähigkeit aus, wodurch sie ideal für die Verlegung auf Fußbodenheizungen geeignet sind. Die hohe Dichte und geringe Wasseraufnahme sorgen für Frostbeständigkeit, so dass diese Fliese auch im gesamten Außenbereich verwendet werden kann.</p><p class=\"justify\">Dank rektifizierter Kanten kann die Bodenfliese mit einer schmalen Fuge verlegt werden, für ein einheitliches Flächenbild. Mit einer Abriebklasse von 4 ist die Fliese für intensiv genutzte Räume, wie Büroräume, Flure und Treppen, gut geeignet. Die Rutschhemmung R10 stellt sicher, dass die Fliese trittsicher bei einem Neigungswinkel von 10° bis 19° ist und somit barrierefrei im gesamten Wohnraum genutzt werden kann.</p><p class=\"justify\">Die Bodenfliese Track Feinsteinzeug Anthrazit Glasiert 60 cm x 60 cm ist nicht nur ein optisch ansprechender und moderner Bodenbelag, sondern überzeugt auch durch ihre technischen Eigenschaften. Sie ist eine ideale Wahl für alle, die auf der Suche nach einer langlebigen, einfach zu pflegenden und vielseitigen Fliesenlösung für ihr Zuhause oder gewerbliche Räume sind.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2682367",
+        "seo": {
+          "texts": [
+            {
+              "title": "Sonstige Stegu Verblender Jura Beige 0,8 m²",
+              "text": "<p class=\"justify\">Der <b>Sonstige Stegu Verblender Jura Beige 0,8 m²</b> ist ein hochwertiges Produkt in der Kategorie Verblender & Riemchen. Mit seiner Bruchstein Optik bringt dieser Verblender eine warme, milde Struktur in den Raum, während das elegante Erscheinungsbild jedem Ambiente einen Hauch von luxuriösem Charme verleiht. Hergestellt auf Zementbasis, eignet sich der Stegu-Verblender sowohl für Innen- als auch Außenbereiche und bietet eine vielseitige Gestaltungsmöglichkeit.</p><p class=\"justify\">Dieser hochwertige Verblender ist frostsicher und besonders robust gegen Witterungseinflüsse, wodurch er sich perfekt für die Verwendung im Außenbereich eignet. Darüber hinaus ist er pflegeleicht und einfach anzubringen, sodass Sie im Handumdrehen den gewünschten Look erzielen können. Mit einer Fläche von 0,8 m² pro Verpackungseinheit bietet der Stegu Verblender Jura Beige genug Material, um auch größere Projekte zu verwirklichen.</p><p class=\"justify\">In der eleganten Farbe Beige harmoniert dieser Verblender mit einer Vielzahl von Einrichtungsstilen und Farbkonzepten. Als Teil der Kategorie \"Verblender & Riemchen\" unterstreicht er das stilvolle Design jedes Raumes und lässt sich hervorragend mit verschiedenen Materialien und Oberflächen kombinieren. Ob Sie eine moderne, klassische oder traditionelle Gestaltung bevorzugen – der Sonstige Stegu Verblender Jura Beige 0,8 m² wird Ihren Erwartungen gerecht.</p><p class=\"justify\">Insgesamt erfreut sich der Stegu Verblender Jura Beige großer Beliebtheit bei den Nutzern. 340 zufriedene Kunden haben eine Bewertung abgegeben, und das Produkt hat durchschnittlich 5 Sterne erhalten. Dieser Verblender ist somit eine hervorragende Wahl für alle, die eine ansprechende und gleichzeitig langlebige Lösung für ihr Bau- oder Renovierungsprojekt suchen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2474914",
+        "seo": {
+          "texts": [
+            {
+              "title": "Feinsteinzeug Scandic Dekor 13 glasiert matt 18,6 cm x 18,6 cm",
+              "text": "<p class=\"justify\">Das Feinsteinzeug Scandic Dekor 13 der Marke Sonstige bietet eine hochwertige und stilvolle Lösung für alle, die ihren Wohnräumen ein zeitloses, modernes Flair verleihen möchten. Diese Dekorfliesen in der Größe 18,6 cm x 18,6 cm zeichnen sich durch ihr elegantes und schickes Design in Retro-Optik aus und passen hervorragend in jeden Wohnraum, egal ob Küche, Bad oder Wohnbereich.</p><p class=\"justify\">Die Fliese besticht durch ihre matte Oberfläche und die glasierte Beschichtung, die nicht nur für eine ansprechende Optik sorgt, sondern auch für eine leichte Reinigung und Pflege. Dadurch ist diese Feinsteinzeugfliese sowohl praktisch als auch dekorativ. Die hohe Qualität und Beständigkeit der Feinsteinzeugfliese garantieren eine lange Lebensdauer und einen dauerhaft schönen Look in Ihren Räumlichkeiten.</p><p class=\"justify\">Der Artikel ist in der Kategorie Dekorfliesen eingeordnet und ist Teil des umfangreichen Sortiments an Fliesenprodukten, zu denen auch andere Fliesengrößen, Farben und Designs gehören. Die große Auswahl ermöglicht die individuelle Gestaltung Ihrer Wohnräume und das Schaffen eines wohnlichen Ambientes ganz nach Ihrem Geschmack.</p><p class=\"justify\">Mit einer beeindruckenden Anzahl von 110 Kundenbewertungen und einer durchschnittlichen Bewertung von 5 Sternen zeigt das Feinsteinzeug Scandic Dekor 13 deutlich, dass es den hohen Anforderungen und Erwartungen der Kunden gerecht wird. Die erstklassige Qualität und das außergewöhnliche Design machen diese Dekorfliese zu einer perfekten Wahl für alle, die auf der Suche nach einer stilvollen und langlebigen Lösung für ihre Wohnräume sind.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2653350",
+        "seo": {
+          "texts": [
+            {
+              "title": "Klimex Verblender Milano UltraStrong Loft Feinsteinzeug 16 cm x 40 cm",
+              "text": "<p class=\"justify\">Verleihen Sie Ihren Wänden einen modernen und stilvollen Look mit dem Klimex Verblender Milano UltraStrong Loft Feinsteinzeug. Dieses hochwertige Produkt eignet sich hervorragend für den Einsatz im Innen- und Außenbereich und sorgt für ein ansprechendes Design in Ihrem Zuhause. Die Verblender überzeugen durch ihre natürliche Steinoptik und die italienische HD-Drucktechnologie, die für eine besonders realistische und ansprechende Optik sorgt.</p><p class=\"justify\">Das Feinsteinzeug ist robust, langlebig und abriebfest, was es zu einer hervorragenden Alternative zu Naturmaterialien macht. Es ist feuerfest, kratz- und stoßfest, farbstabil und frostbeständig, sodass es sich ideal für den Einsatz in Feuchträumen wie Küche und Bad eignet. Die Verblender bestehen aus hochwertigem, europäischem Feinsteinzeug und sind speziell für Bad und Küche empfohlen. Zudem können sie problemlos auch im Außenbereich angewendet werden.</p><p class=\"justify\">Die einfache Verarbeitung der Klimex Verblender Milano UltraStrong Loft Feinsteinzeug ermöglicht es Ihnen, schnell und unkompliziert ein ansprechendes Wanddesign zu kreieren. Achten Sie bei der Verlegung darauf, dass die darunterliegende Fläche eben, tragfähig, sauber und trocken ist. Die Steine sind 16 cm hoch und 40 cm lang und werden in einer Packung mit 15 Stück und einer Gesamtfläche von 0,96 m² geliefert. Das Flächengewicht beträgt lediglich 18,23 kg/m².</p><p class=\"justify\">Einige der Vorteile der Klimex Verblender Milano UltraStrong Loft Feinsteinzeug sind die 100%ige Beständigkeit gegen Chemikalien und Wasser, die 100%ige Feuerfestigkeit, die 100%ige Kratz- und Stoßfestigkeit, die 100%ige UV Farbstabilität und die 100%ige Frostbeständigkeit. Mit einer erwarteten Lebensdauer von mehr als 50 Jahren können Sie sich lange an Ihrem neuen Wanddesign erfreuen. Lassen Sie Ihrer Kreativität freien Lauf und gestalten Sie Ihre Wohnräume mit den vielseitigen Klimex Verblendsteinen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8298986",
+        "seo": {
+          "texts": [
+            {
+              "title": "Bodenfliese Vabene Barcelona Classic Feinsteinzeug Glasiert Matt 25 cm x 25 cm",
+              "text": "<p class=\"justify\">Die Bodenfliese Vabene Barcelona Classic ist ein moderner Bodenbelag aus Feinsteinzeug und für die Verlegung im Innenbereich geeignet. Das stilvolle Design dieser Fliese in einer modernen Vintage-Optik überzeugt, während ihr mittlerer Farbton sich perfekt mit verschiedenen Einrichtungsstilen kombinieren lässt. Das quadratische Format sorgt für eine klare Struktur und ein harmonisches Gesamtbild.</p><p class=\"justify\">Fliesen aus Feinsteinzeug sind keramische Fliesen, die bei hohen Temperaturen und unter hohem Druck verarbeitet werden. Sie zeichnen sich durch ihre feine Zusammensetzung aus, wodurch sie besonders widerstandsfähig und belastbar sind. Feinsteinzeugfliesen sind aufgrund ihrer vielfältigen Verwendung besonders beliebt. Generell ist Feinsteinzeug ein unbrennbares Material und kann großer Hitze ausgesetzt werden, aber überzeugt zugleich mit einer guten Leitfähigkeit. Dadurch ist es ideal für die Verlegung auf Fußbodenheizungen geeignet.</p><p class=\"justify\">Die matt glasierte Oberfläche dieser Bodenfliese ist besonders einfach zu reinigen und bietet eine hohe Dichte sowie eine geringe Wasseraufnahme. Dadurch ist die Fliese frostsicher. Mit einer Abriebklasse von 4 eignet sie sich für intensiv genutzte Räume wie Büros, Flure und Treppen, sowohl im gewerblichen als auch im privaten Bereich.</p><p class=\"justify\">Die Rutschhemmung der Bodenfliese Vabene Barcelona Classic ist in der Gruppe R10 klassifiziert, was bedeutet, dass sie einen normalen Haftreibwert und eine Trittsicherheit bei einem Neigungswinkel von 10° - 19° aufweist. Dadurch ist die Fliese barrierefrei und für den häuslichen Gebrauch geeignet.</p><p class=\"justify\">Zusammenfassend bietet die Bodenfliese Vabene Barcelona Classic Feinsteinzeug Glasiert Matt 25 cm x 25 cm eine ansprechende Optik und hervorragende Eigenschaften, die sie sowohl für den privaten als auch für den gewerblichen Bereich zum idealen Bodenbelag machen. Das moderne Vintage-Design unterstreicht das wohnliche Ambiente in jedem Raum und erzeugt ein angesagtes Erscheinungsbild.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "2681591",
+        "seo": {
+          "texts": [
+            {
+              "title": "Stegu Verblender Sydney Weiß: Stilvolle Wandverkleidung für Ihr Zuhause",
+              "text": "<p class=\"justify\">Schaffen Sie ein einzigartiges Ambiente in Ihrem Zuhause mit dem Stegu Verblender Sydney Weiß. Dieser hochwertige Wandverkleidungsstein, hergestellt von der renommierten Marke Sonstige, ist ideal für die Schaffung eines ansprechenden und zeitgemäßen Raumbildes. Die feine Struktur und neutrale Farbgebung der Verblendsteine fügen sich perfekt in Wohn-, Ess- oder Schlafzimmer sowie im Flur ein und verleihen Ihrem Wohnraum einen Hauch von Eleganz.</p><p class=\"justify\">Der Stegu Verblender Sydney Weiß ist aus Gips gefertigt, wodurch er sich durch ein besonders geringes Gewicht auszeichnet. Dadurch können die Verblendsteine problemlos auch an nicht tragenden Wänden angebracht werden und eignen sich ausschließlich für den Innenbereich. Die Wandverblender aus Gips sind bis zu 50 % leichter als vergleichbare Verblendsteine in Leichtbeton, was eine leichte und einfache Verarbeitung garantiert.</p><p class=\"justify\">Die Verblender lassen sich auf unterschiedliche Art und Weise verlegen, wodurch sie die Raumwirkung individuell gestalten und beeinflussen können. Waagerechte Fugen lassen den Raum aufgrund der Anordnung optisch breiter erscheinen, während senkrechte Fugen eine höhere Raumwirkung erzeugen. Für die größte Dynamik sorgt jedoch eine diagonale Verlegung der Fugen, die besonders interessante Akzente setzt.</p><p class=\"justify\">Mit diesem vielseitigen Produkt aus der Kategorie Verblender & Riemchen setzen Sie gekonnt Akzente in Ihrem Zuhause. Die GTIN13 des Stegu Verblender Sydney Weiß lautet 5907762305464 und der Artikel hat eine SKU von 2681591. Gönnen Sie sich und Ihrem Wohnraum diese stilvolle Wandverkleidung und schaffen Sie ein Ambiente, das Sie und Ihre Gäste begeistern wird.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1781707",
+        "seo": {
+          "texts": [
+            {
+              "title": "Bodenfliese Atlantik Weiß-Marmoriert 4 Stück von Sonstige",
+              "text": "<p class=\"justify\">Die Bodenfliese Atlantik Weiß-Marmoriert ist eine hochwertige keramische Bodenfliese, die in Innenbereichen als stilvolle und langlebige Lösung eingesetzt werden kann. Hergestellt von der Marke Sonstige, überzeugt die quadratische Fliese mit ihrer eleganten Optik und der Grundfarbe in Weiß mit Marmoreffekt. Der matt-glasierte Belag sorgt für eine geschmackvolle Raumgestaltung, die sich harmonisch in jedes Raumkonzept einfügt.</p><p class=\"justify\">Die Maße der Fliesen betragen 60 cm x 60 cm x 8,5 mm (H x B x T) und sind somit ideal für Räume jeglicher Größe geeignet. Eine praktische Verpackungseinheit enthält insgesamt 4 rektifizierte Porzellanfliesen, die zusammen eine Fläche von 1,44 m² abdecken. Die Fliesen können einfach und unkompliziert verlegt werden, sodass ein zeitgemäßes und ansprechendes Bodendesign entsteht.</p><p class=\"justify\">Zur optimalen Anpassung an individuelle Raumkonzepte lassen sich die Bodenfliesen Atlantik Weiß-Marmoriert mit passenden Sockelfliesen kombinieren, die einen sauberen Wandübergang gewährleisten. Der Einsatz dieser Fliesen bietet eine ideale Lösung für Badezimmer, Küchen, Wohnräume und viele weitere Anwendungsbereiche, in denen Wert auf Qualität und Design gelegt wird.</p><p class=\"justify\">Mit 5 Sternen und 335 Bewertungen erhalten die Bodenfliesen Atlantik Weiß-Marmoriert eine ausgezeichnete Kundenzufriedenheit, die die erstklassige Qualität und das ansprechende Design dieser Fliesen unterstreicht. Setzen Sie auf diese langlebigen und eleganten Bodenfliesen, um Ihren Wohnraum effektvoll und zeitlos zu gestalten.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9864117",
+        "seo": {
+          "texts": [
+            {
+              "title": "Bodenfliese Fir Wood Honey Feinsteinzeug Braun Glasiert Matt 31 cm x 62 cm",
+              "text": "<p class=\"justify\">Die Bodenfliese Fir Wood Honey Feinsteinzeug Braun Glasiert Matt 31 cm x 62 cm der Marke Sonstige ist ein äußerst modernes und hochwertiges Produkt, das sich hervorragend für die Gestaltung von Innen- und Außenbereichen eignet. Diese Fliese besticht durch ihr elegantes Erscheinungsbild und passt perfekt zu verschiedenen Einrichtungsstilen. Mit einer modernen Holzoptik erzeugt diese Fliese ein wohnliches und zeitloses Ambiente.</p><p class=\"justify\">Die Fliese ist aus Feinsteinzeug gefertigt und zeichnet sich durch eine hohe Dichte und geringe Wasseraufnahme aus. Sie ist dadurch besonders widerstandsfähig und langlebig, sodass sie auch für gewerbliche und stark beanspruchte Räume geeignet ist. Die matte Glasur schützt die Fliese und verleiht ihr eine edle Optik. Sie ist zudem einfach zu reinigen und beständig gegen mechanische Einwirkungen. Dank der Abriebklasse 4 sind die Fliesen auch für Räume mit hoher Beanspruchung, wie beispielsweise Büros und Flure, geeignet.</p><p class=\"justify\">Ein weiterer Vorteil dieser Fliesen ist ihre Rutschhemmung R9 mit einem geringen Haftreibwert. Dies macht sie zu einer sicheren Wahl für Wohn- und Schlafzimmer in privaten Räumen, da sie bei Kontakt mit Flüssigkeiten eine gute Trittsicherheit gewährleisten. Die Fliesen sind in einem Paket von 1,58 m² erhältlich, sodass sie leicht verlegt werden können. Zum Verlegen der Fliesen auf Fußbodenheizungen eignen sie sich aufgrund ihrer hohen Leitfähigkeit ebenfalls hervorragend.</p><p class=\"justify\">Die vielseitige Verwendung dieser Fliesen ermöglicht es Ihnen, sowohl im Innen- als auch im Außenbereich kreativ und individuell gestalten zu können. Ob als Bodenfliese oder Wandfliese, mit der Bodenfliese Fir Wood Honey Feinsteinzeug Braun Glasiert Matt 31 cm x 62 cm von Sonstige setzen Sie auf ein qualitativ hochwertiges und modernes Design, das jeden Raum in ein gemütliches und stilvolles Ambiente verwandelt.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5424981",
+        "seo": {
+          "texts": [
+            {
+              "title": "Sonstige Stegu Verblender Nepal Beige-Grau",
+              "text": "<p class=\"justify\">Der Sonstige Stegu Verblender Nepal Beige-Grau ist ein hochwertiger Verblendstein, der sich perfekt für die Gestaltung von Innen- und Außenwänden eignet. Mit seiner natürlichen Schönheit und modernen Form fügt sich der Stegu Verblender harmonisch in jede Wohnwelt ein. Die Verblendsteine sorgen für ein optisches Highlight und setzen ganze Wände oder nur Teilbereiche gekonnt in Szene.</p><p class=\"justify\">Durch die präzise, manuelle Herstellung weisen die Wandsteine keine sichtbaren Ränder auf und wirken wie eine durchgängige Fläche an Ihren Wohnwänden. Die Verblender aus Beton können sowohl im Innen- als auch im Außenbereich angebracht werden. Sie sind unempfindlich gegenüber dauernder Nässe und somit auch für Feuchträume geeignet. Um die Oberfläche der Steinverblender zu schützen, sollten sie jedoch grundsätzlich wasserabweisend imprägniert werden.</p><p class=\"justify\">Verblendsteine lassen sich auf unterschiedliche Art und Weise verlegen, wodurch sie die Raumwirkung ganz individuell gestalten und beeinflussen können. Waagerechte Fugen lassen den Raum aufgrund der Anordnung optisch breiter erscheinen, während senkrechte Fugen dem Raum eine höhere Wirkung verleihen. Die größte Dynamik wird durch eine diagonale Verlegung der Fugen erzeugt.</p><p class=\"justify\">Der Stegu Verblender Nepal Beige-Grau eignet sich aufgrund seiner vielseitigen Einsatzmöglichkeiten und ansprechenden Optik für allerlei Gestaltungsideen. Ob Sie nun Ihr Wohnzimmer mit einer modernen Akzentwand aufwerten oder den Außenbereich Ihres Hauses verschönern möchten – mit diesem Verblendstein treffen Sie eine ausgezeichnete Wahl. Die Kombination aus Qualität, Ästhetik und Langlebigkeit macht den Stegu Verblender Nepal Beige-Grau zu einer idealen Investition für Ihr Zuhause oder Ihr Geschäftsgebäude.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE \u2013 die besten Angebote!",
-    "defaultMetaDescription": "$KATEGORIE - gro\u00dfes Sortiment an tollen Produkten in unterschiedlichen Gr\u00f6\u00dfen, Farben, Designs! | Finden Sie die perfekte Fliese f\u00fcr Ihr Zuhause. ",
+    "defaultTitle": "$KATEGORIE – die besten Angebote!",
+    "defaultMetaDescription": "$KATEGORIE - großes Sortiment an tollen Produkten in unterschiedlichen Größen, Farben, Designs! | Finden Sie die perfekte Fliese für Ihr Zuhause. ",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -130,8 +251,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -148,16 +269,16 @@
     ]
   },
   "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Top Qualit\u00e4t ",
-    "defaultMetaDescription": "$HERSTELLER ist ein Marktf\u00fchrender Anbieter f\u00fcr Fliesen. | $HERSTELLER zeichnet sich durch qualitativ hochwertig hergestellte Produkte aus. | Bei uns erh\u00e4ltich!",
+    "defaultTitle": "$HERSTELLER | Top Qualität ",
+    "defaultMetaDescription": "$HERSTELLER ist ein Marktführender Anbieter für Fliesen. | $HERSTELLER zeichnet sich durch qualitativ hochwertig hergestellte Produkte aus. | Bei uns erhältich!",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
